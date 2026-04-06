@@ -29,7 +29,7 @@ Show
 # Add marketplace
 Type "claude plugin marketplace add MARKETPLACE_REPO"
 Enter
-Sleep 10s
+Sleep 12s
 Enter
 Sleep 300ms
 
